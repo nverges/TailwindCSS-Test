@@ -1,3 +1,7 @@
 @tailwind preflight;
 
 @tailwind utilities;
+
+.resp {
+    margin: 20px 20px;
+}

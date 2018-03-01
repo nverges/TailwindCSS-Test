@@ -4515,6 +4515,10 @@ button,
   z-index: auto;
 }
 
+.resp {
+  margin: 20px 20px;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
